@@ -7,7 +7,7 @@
     "repository": {
     "type": "git",
     "url": "https://github.com/shanedonburke/darkalicious-theme.git"
-    }
+    },
     "engines": {
         "vscode": "^1.57.0"
     },
