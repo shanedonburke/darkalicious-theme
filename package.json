@@ -1,0 +1,22 @@
+{
+    "name": "darkalicious-theme",
+    "displayName": "Darkalicious Theme",
+    "description": "A theme inspired by Monokai and Atom One Dark",
+    "publisher": "shanedonburke",
+    "version": "0.0.3",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Darkalicious",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Darkalicious-color-theme.json"
+            }
+        ]
+    }
+}
