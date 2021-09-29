@@ -4,6 +4,10 @@
     "description": "A theme inspired by Monokai and Atom One Dark",
     "publisher": "shanedonburke",
     "version": "0.0.3",
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/shanedonburke/darkalicious-theme.git"
+    }
     "engines": {
         "vscode": "^1.57.0"
     },
